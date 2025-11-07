@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Climate Solutions</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <%- include('partials/navbar') %>
+  
+  <div class="container mx-auto px-4 py-8">
+
+    <!-- hero section -->
+
+    <div class="hero bg-base-200 rounded-lg mb-8">
+      <div class="hero-content text-center">
+        <div class="max-w-md">
+          <h1 class="text-5xl font-bold">Welcome to my Climate Solutions website</h1>
+          <p class="py-6">Explore innovative projects working to combat climate change and create a sustainable future for our planet.</p>
+          <a href="/solutions/projects" class="btn btn-primary">View All Projects</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- featured projects grid:   -->
+
+    <h2 class="text-3xl font-bold mb-6">Featured Projects</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <% projects.forEach(project => { %>
+        <div class="card bg-base-100 shadow-xl">
+          <figure>
+            <img src="<%= project.feature_img_url %>" alt="<%= project.title %>" class="w-full h-48 object-cover">
+          </figure>
+          <div class="card-body">
+            <h2 class="card-title"><%= project.title %></h2>
+            <p><%= project.summary_short %></p>
+            <div class="card-actions justify-end">
+              <a href="/solutions/projects/<%= project.id %>" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+      <% }); %>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+

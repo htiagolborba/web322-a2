@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Abandoned Farmland Restoration",
+    "sector": "Agriculture",
+    "summary_short": "Restoring abandoned farmland to sequester carbon and improve soil health.",
+    "intro_short": "This project focuses on transforming unused agricultural land into productive carbon sinks.",
+    "impact": "Estimated to sequester 50,000 tons of CO2 annually while improving local biodiversity.",
+    "feature_img_url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400",
+    "original_source_url": "https://example.com/farmland-restoration"
+  },
+  {
+    "id": 2,
+    "title": "Alternative Cement",
+    "sector": "Industry",
+    "summary_short": "Developing low-carbon cement alternatives to reduce industrial emissions.",
+    "intro_short": "Revolutionary cement production methods that cut carbon emissions by up to 70%.",
+    "impact": "Could reduce global cement industry emissions by 2 billion tons of CO2 per year.",
+    "feature_img_url": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?w=400",
+    "original_source_url": "https://example.com/alternative-cement"
+  },
+  {
+    "id": 3,
+    "title": "Clean Cooking",
+    "sector": "Energy",
+    "summary_short": "Providing efficient cooking solutions to reduce deforestation and emissions.",
+    "intro_short": "Clean cooking technologies that replace traditional biomass burning methods.",
+    "impact": "Prevents 10 million tons of CO2 emissions and saves 2 million hectares of forest annually.",
+    "feature_img_url": "https://images.unsplash.com/photo-1556910110-a5a63dfd393c?w=400",
+    "original_source_url": "https://example.com/clean-cooking"
+  },
+  {
+    "id": 4,
+    "title": "Electric Vehicle Charging Infrastructure",
+    "sector": "Transportation",
+    "summary_short": "Building widespread EV charging networks to accelerate electric vehicle adoption.",
+    "intro_short": "Comprehensive charging infrastructure supporting the transition to electric mobility.",
+    "impact": "Supports 5 million EVs, reducing transportation emissions by 15 million tons of CO2 yearly.",
+    "feature_img_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=400",
+    "original_source_url": "https://example.com/ev-charging"
+  },
+  {
+    "id": 5,
+    "title": "Coastal Wetland Restoration",
+    "sector": "Agriculture",
+    "summary_short": "Restoring coastal wetlands to protect shorelines and sequester carbon.",
+    "intro_short": "Rehabilitating vital coastal ecosystems that serve as powerful carbon sinks.",
+    "impact": "Sequesters 30,000 tons of CO2 per year while protecting communities from storm surges.",
+    "feature_img_url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=400",
+    "original_source_url": "https://example.com/wetland-restoration"
+  },
+  {
+    "id": 6,
+    "title": "Green Steel Production",
+    "sector": "Industry",
+    "summary_short": "Using hydrogen instead of coal to produce zero-emission steel.",
+    "intro_short": "Revolutionary steel manufacturing process powered by renewable hydrogen.",
+    "impact": "Eliminates 1.8 billion tons of CO2 emissions from global steel production.",
+    "feature_img_url": "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=400",
+    "original_source_url": "https://example.com/green-steel"
+  },
+  {
+    "id": 7,
+    "title": "Solar Panel Recycling",
+    "sector": "Energy",
+    "summary_short": "Recycling end-of-life solar panels to recover valuable materials.",
+    "intro_short": "Sustainable recycling solutions for aging solar panel infrastructure.",
+    "impact": "Recovers 95% of materials from 10 million panels, preventing 500,000 tons of waste.",
+    "feature_img_url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400",
+    "original_source_url": "https://example.com/solar-recycling"
+  },
+  {
+    "id": 8,
+    "title": "High-Speed Rail Network",
+    "sector": "Transportation",
+    "summary_short": "Expanding rail networks to reduce reliance on air and road travel.",
+    "intro_short": "Modern high-speed rail connecting major cities with sustainable transportation.",
+    "impact": "Reduces transportation emissions by 25 million tons of CO2 annually.",
+    "feature_img_url": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400",
+    "original_source_url": "https://example.com/high-speed-rail"
+  },
+  {
+    "id": 9,
+    "title": "Regenerative Agriculture",
+    "sector": "Agriculture",
+    "summary_short": "Implementing farming practices that restore soil health and capture carbon.",
+    "intro_short": "Holistic farming methods that work with nature to rebuild healthy ecosystems.",
+    "impact": "Sequesters 100,000 tons of CO2 per year while increasing crop yields by 20%.",
+    "feature_img_url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=400",
+    "original_source_url": "https://example.com/regenerative-agriculture"
+  },
+  {
+    "id": 10,
+    "title": "Carbon Capture in Manufacturing",
+    "sector": "Industry",
+    "summary_short": "Installing carbon capture systems in factories to trap emissions.",
+    "intro_short": "Advanced technology capturing CO2 directly from industrial processes.",
+    "impact": "Captures 5 million tons of CO2 annually from manufacturing facilities.",
+    "feature_img_url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=400",
+    "original_source_url": "https://example.com/carbon-capture"
+  },
+  {
+    "id": 11,
+    "title": "Community Solar Gardens",
+    "sector": "Energy",
+    "summary_short": "Creating shared solar installations for neighborhoods and communities.",
+    "intro_short": "Accessible renewable energy through community-owned solar projects.",
+    "impact": "Generates 50 MW of clean energy, powering 15,000 homes sustainably.",
+    "feature_img_url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=400",
+    "original_source_url": "https://example.com/community-solar"
+  },
+  {
+    "id": 12,
+    "title": "Electric Bus Fleet",
+    "sector": "Transportation",
+    "summary_short": "Replacing diesel buses with electric alternatives in urban areas.",
+    "intro_short": "Zero-emission public transportation serving cities and reducing air pollution.",
+    "impact": "Eliminates 200,000 tons of CO2 and improves air quality for 2 million residents.",
+    "feature_img_url": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=400",
+    "original_source_url": "https://example.com/electric-buses"
+  }
+]
